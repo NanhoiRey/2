@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/2/static/css/main.4476f985.css",
+    "main.js": "/2/static/js/main.b195fb15.js",
+    "static/js/787.fe092280.chunk.js": "/2/static/js/787.fe092280.chunk.js",
+    "static/media/sobreNosotros.jpg": "/2/static/media/sobreNosotros.432bb575dab0ace2c521.jpg",
+    "static/media/banner-inicio.jpg": "/2/static/media/banner-inicio.b1e8b7b491127de46810.jpg",
+    "static/media/4775.jpg": "/2/static/media/4775.83c8358306a405209d2d.jpg",
+    "static/media/logo-header.png": "/2/static/media/logo-header.1ed9df10da01b246bf40.png",
+    "static/media/logo.png": "/2/static/media/logo.559500dfaa1e080ad5d3.png",
+    "static/media/404.png": "/2/static/media/404.efcbde62549d79829c57.png",
+    "static/media/asus.png": "/2/static/media/asus.83c4f167305f1d8ac7f0.png",
+    "static/media/bosch.png": "/2/static/media/bosch.186c8416be62d3d33602.png",
+    "static/media/inova.png": "/2/static/media/inova.1c2eac7b2f2c262fb8c8.png",
+    "index.html": "/2/index.html",
+    "main.4476f985.css.map": "/2/static/css/main.4476f985.css.map",
+    "main.b195fb15.js.map": "/2/static/js/main.b195fb15.js.map",
+    "787.fe092280.chunk.js.map": "/2/static/js/787.fe092280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4476f985.css",
+    "static/js/main.b195fb15.js"
+  ]
+}
